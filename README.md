@@ -1,2 +1,2 @@
-# pps-lab-e2
+# PPS lab - E2 C++
 This is my first github repository
